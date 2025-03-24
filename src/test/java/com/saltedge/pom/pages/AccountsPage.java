@@ -14,7 +14,7 @@ public class AccountsPage extends BasePage implements Page {
     @Autowired
     private Header header;
 
-    @FindBy(xpath = "//h1[@id='accountss']")
+    @FindBy(xpath = "//h1[@id='accounts']")
     private WebElement accountsLabel;
 
     @FindBy(css = "[href='#card-accounts'][class='prev-link']")

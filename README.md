@@ -19,7 +19,7 @@ Each scenario is a list of steps for Cucumber to work through. Cucumber verifies
     <li>Cross browser(Edge, Chrome, Firefox, Safari) test running</li>
     <li>Cross Operating System test running</li>
     <li>Simple to read API requests</li>
-    <li>Screenshot taking for every cucumber failed step located in cucumber report</li>
+    <li>Screenshot taking for every cucumber failed step located in cucumber report(only for failed steps)</li>
 </ul>
 
 ### Requirements
