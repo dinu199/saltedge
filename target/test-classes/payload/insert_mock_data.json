@@ -1,0 +1,8 @@
+{
+  "recurringIndicator": true,
+  "frequencyPerDay": 2,
+  "validUntil": "2019-12-27",
+  "access": {
+    "allPsd2": "allAccounts"
+  }
+}
