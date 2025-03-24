@@ -1,0 +1,8 @@
+com\saltedge\steps\MockDataSteps.class
+com\saltedge\config\RestTemplateConfiguration.class
+com\saltedge\TestRunner.class
+com\saltedge\utils\ScenarioContext.class
+com\saltedge\config\ApplicationPropertiesConfig.class
+com\saltedge\requests\RestTemplateRequests.class
+com\saltedge\config\CucumberSpringConfiguration.class
+com\saltedge\steps\ConsentSteps.class
